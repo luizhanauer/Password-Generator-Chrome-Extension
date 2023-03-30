@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Gerador de Senhas Simples",
+    "version": "1.0",
+    "description": "Uma extensão simples para gerar senhas aleatórias.",
+    "icons": {
+      "16": "lock.png"
+    },
+    "permissions": ["clipboardWrite"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
